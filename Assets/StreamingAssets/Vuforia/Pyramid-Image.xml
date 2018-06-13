@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="QrCode_Android" size="0.038720 0.038720" />
+    <ImageTarget name="QrCode_Vuforia" size="0.038720 0.038720" />
+    <ImageTarget name="QrCode_Conserto" size="0.038720 0.038720" />
+    <ImageTarget name="ImageAstronauts" size="0.066800 0.035728" />
+  </Tracking>
+</QCARConfig>
