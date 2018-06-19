@@ -19,7 +19,7 @@ Sous l'onglet "File" :
 	  - Vérifier bien que sous "Player Settings" > "Other Settings" > "Identification" que les noms et numéros de versions soient bien conforme aux conventions de nommages Android
 
 2. Votre téléphone doit pouvoir installer des apk non signé, n'oubliez pas d'autorisation les installations d'apk ne provenant pas du google play store. 
-	   Pour cela dans les paramètre de votre téléphone sous "Paramètres avancés" > "Sécurité", activez "Source inconnue"
+	- Pour cela dans les paramètre de votre téléphone sous "Paramètres avancés" > "Sécurité", activez "Source inconnue"
 	   - option 1: cliquer sur "build" pour générer un apk (vous pourrez choisir l'emplacement) et vous devrez l'installer manuellement sur votre téléphone.
 	   - option 2: cliquer sur "build and run" si votre smartphone est connecté à votre ordinateur (mode développeur et debbogage USB activés), l'apk s'installera automatique sur votre smartphone et se lancera, une fois l'installation terminée.
      
