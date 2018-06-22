@@ -1,5 +1,9 @@
 # AR-pyramid
 
+En flashant le ce QRcode ou en suivant ce lien : [Incoming](https://www.google.com)
+
+![QRCode GooglePlay][logo]
+
 Ce projet présente des fonctionnalités plus ou moins poussées de Vuforia via la thématique égyptienne pour le magazine Programmez.
 
 ### Prérequis pour le fonctionnement du projet 
@@ -23,4 +27,4 @@ Sous l'onglet "File" :
 	   - option 1: cliquer sur "build" pour générer un apk (vous pourrez choisir l'emplacement) et vous devrez l'installer manuellement sur votre téléphone.
 	   - option 2: cliquer sur "build and run" si votre smartphone est connecté à votre ordinateur (mode développeur et debbogage USB activés), l'apk s'installera automatique sur votre smartphone et se lancera, une fois l'installation terminée.
      
-Ici, QR code playstore.
+
