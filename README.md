@@ -1,8 +1,8 @@
 # AR-pyramid
 
-En flashant le ce QRcode ou en suivant ce lien : [Incoming](https://www.google.com)
+Téléchargez l'application avec le QRCode :
 
-![QRCode GooglePlay][logo]
+![alt text](https://image.noelshack.com/fichiers/2018/26/7/1530455319-frame.png)
 
 Ce projet présente des fonctionnalités plus ou moins poussées de Vuforia via la thématique égyptienne pour le magazine Programmez.
 
