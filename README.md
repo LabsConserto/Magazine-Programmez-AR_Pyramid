@@ -30,5 +30,5 @@ Sous l'onglet "File" :
 ### Politique de protection des données personnelles
 
 L'application a besoin, pour pouvoir fonctionner, de la caméra de votre smartphone Android. 
-Cependant AUCUNE données n'est stockée, ni sur le smartphone ni sur nos serveurs.
+Cependant AUCUNES données n'est stockée, ni sur le smartphone ni sur nos serveurs.
 
