@@ -27,4 +27,8 @@ Sous l'onglet "File" :
 	   - option 1: cliquer sur "build" pour générer un apk (vous pourrez choisir l'emplacement) et vous devrez l'installer manuellement sur votre téléphone.
 	   - option 2: cliquer sur "build and run" si votre smartphone est connecté à votre ordinateur (mode développeur et debbogage USB activés), l'apk s'installera automatique sur votre smartphone et se lancera, une fois l'installation terminée.
      
+### Politique de protection des données personnelles
+
+L'application a besoin, pour pouvoir fonctionner, de la caméra de votre smartphone Android. 
+Cependant AUCUNE données n'est stockée, ni sur le smartphone ni sur nos serveurs.
 
