@@ -12,6 +12,8 @@ Téléchargez l'application avec le QRCode :
 
 Ce projet présente des fonctionnalités plus ou moins poussées de Vuforia via la thématique égyptienne pour le magazine Programmez.
 
+POUR UNE MEILLEURS DETECTION VOUS POUVEZ IMPRIMER LE FICHIER : Pyramid_Images.pdf
+
 ### Prérequis pour le fonctionnement du projet 
 
 - Unity 2017.4.0f1 
